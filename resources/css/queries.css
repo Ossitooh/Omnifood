@@ -112,6 +112,20 @@
     }
     .works-step { margin-bottom: 20px; }
     .works-step:last-of-type { margin-bottom: 20px; }
+    
+     cite {
+        font-size: 90%;
+        margin-top: 18px;
+        display: block;
+    }
+    
+    blockquote {
+        padding: 1%;
+        font-style: italic;
+        line-height: 135%;
+        position: relative;
+        margin-top: 23px;
+    }
 }
 
     
